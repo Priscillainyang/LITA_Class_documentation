@@ -1,6 +1,6 @@
 # LITA_Class_documentation
 
-### Project Title:E commerce Sales Analysis
+### Project Title: Data Cleaning, Analysis, and Querying using Excel and SQL
 
 [Project Overview](#project-overview)
 
@@ -10,41 +10,50 @@ Tools Used
 
 Data Cleaning and Preparations
 
-Exploratory Data Analysis
 
 [Data Analysis](#data-analysis)
 
 ### Project Overview
 ```
-This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past weeks. By ananlysing the vairous parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
+The primary goal of this project is to clean and structure a raw data set using Excel for initial organization, perform data summarization and insights using pivot tables, and conduct advanced querying for analysis using SQL. The cleaned dataset, summarized in Excel using some Excel functions including conditional functions; and pivot tables and further analyzed with SQL queries, provides insights into trends, patterns, and outliers. The project delivers actionable recommendations based on the analysis to assist in data-driven decision-making.
 
 ### Data Sources
 ```
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+Our tutors gave the data set, and Data was also obtained from sites such as Kaggle
 
 ### Tools Used
 ```
 - Microsoft Excel [Download Here](https://www.micrsoft.com)
   1. For Data Cleaning
-  2. For Analysis
-  3. For Data Visualization
+      a. [Simple Arithmetic](view)
+      b. Removing Excess Spaces
+      c. Formatting of Text
+      d. Using Vlookup
 
-- SQL - Structured Query Language for Quering of Data
+  2. For Analysis
+      - Pivot Table for Report Summary
+
+  3. For Data Visualization
+      - Different Chart in Excel for Visualization
+      -
+      - 
+
+- SQL - Structured Query Language for Querying of Data and manipulation
+
+### Power Bi
+```
+    a. For Data Visualization
+    b. For Dashboard building
+
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
 ```
-In the initial phase of the Data cleaning and preparations, we perform the following action;
+In the initial phase of the Data cleaning and preparations, we perform the following actions;
 1. Data loading and Inspection
 2. Handling missing variables 
 3. Data Cleaning and formatting
 
-### Exploratory Data Analysis
-```
-EDA involved the exploring of the Data to answer some questions about the Data such as;
-- What is the overall sales trend
-- Which product are top sellers
-- What are the products on peak sales?
 
 ### Data Analysis
 ```
